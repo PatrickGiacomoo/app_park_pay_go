@@ -93,8 +93,6 @@ class _ValorTicketTabState extends State<ValorTicketTab> {
                       ),
                     ),
 
-
-
                   ]))
         ])));
   }

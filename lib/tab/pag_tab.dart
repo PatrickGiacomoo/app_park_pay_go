@@ -104,7 +104,7 @@ class _PagTabState extends State<PagTab> {
                         children: <Widget>[
                           new Expanded(
                             child: TextField(
-                              obscureText: true,
+                              obscureText: false,
                               textAlign: TextAlign.center,
                               decoration: InputDecoration(
                                 border: InputBorder.none,
