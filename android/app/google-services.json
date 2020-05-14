@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "819447746007",
+    "firebase_url": "https://parkpaygo.firebaseio.com",
+    "project_id": "parkpaygo",
+    "storage_bucket": "parkpaygo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819447746007:android:401c4070bedd49d542cf92",
+        "android_client_info": {
+          "package_name": "br.com.giacomo.app_park_pay_go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819447746007-f1vhe2565nvj37dodmjnfo8m6v1tl0dp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_uFi4sZC_dNVOvflOO7VyTlfbrlWQ3m4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819447746007-f1vhe2565nvj37dodmjnfo8m6v1tl0dp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
